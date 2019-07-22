@@ -17,7 +17,7 @@ java -jar target/backend-test-1.0.0-SNAPSHOT-jar-with-dependencies.jar
 | POST | /api/v1/transaction/ | Create a transaction for transfering funds between 2 accounts | 
 
 
-### Sample Json for creating a transaction
+### Sample Json for creating an account
 
 ```sh
 {
