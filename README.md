@@ -38,4 +38,5 @@ java -jar target/backend-test-1.0.0-SNAPSHOT-jar-with-dependencies.jar
 }
 ```
 
-### Not all edge cases are unit/functional tested :(  (tight schedule in this period)
+### P.S. Not all edge cases are unit/functional tested :(  (tight schedule in this period)
+### P.S.S Also no logging
