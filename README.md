@@ -3,7 +3,7 @@ A RESTful API for transferin money between 2 accounts
 
 ### How to run
 mvn clean package </br>
-java -jar target/target/backend-test-1.0.0-SNAPSHOT-jar-with-dependencies.jar
+java -jar target/backend-test-1.0.0-SNAPSHOT-jar-with-dependencies.jar
 
 ### Available Services
 
