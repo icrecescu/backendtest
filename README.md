@@ -25,3 +25,5 @@ java -jar target/backend-test-1.0.0-SNAPSHOT-jar-with-dependencies.jar
 	"amount" : "7"
 }
 ```
+
+### Not all edge cases are unit/functional tested :(  (tight schedule)
