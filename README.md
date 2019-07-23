@@ -1,5 +1,5 @@
 # backendtest
-A RESTful API for transferin money between 2 accounts
+A RESTful API for transfering money between 2 accounts
 
 ### How to run
 mvn clean package </br>
