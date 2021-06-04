@@ -25,7 +25,7 @@
         <dep.db-utils>1.6</dep.db-utils>
         <dep.junit>5.5.0</dep.junit>
         <dep.mockito>1.10.19</dep.mockito>
-        <dep.apache-client>4.5.2</dep.apache-client>
+        <dep.apache-client>4.5.13</dep.apache-client>
         <dep.javax-activation>1.1.1</dep.javax-activation>
         <dep.jaxb-api>2.3.1</dep.jaxb-api>
         <dep.jersey-media>2.29</dep.jersey-media>
